@@ -1,2 +1,2 @@
 # cryptography-in-c
-Cryptography in c language
+Examples of cryptography in C language
