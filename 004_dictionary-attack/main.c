@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * Author: Kim Lehtinen <kimlehtinenwork@gmail.com>
+ * Author: Kim Lehtinen <klehtinen.oss@gmail.com>
  * 
  * Program description: 
  * This program performs caesar cipher decryption and tries to crack given ciphertext (plaintext that is encrypted).
