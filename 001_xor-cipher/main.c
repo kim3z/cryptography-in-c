@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * Author: Kim Lehtinen <klehtinen.oss@gmail.com>
+ * Author: Kim Lehtinen <kim@kimlehtinen.com>
  * 
  * Program description: XOR cipher encryption and decryption
  */
